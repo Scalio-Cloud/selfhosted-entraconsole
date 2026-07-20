@@ -1,4 +1,4 @@
-# Self-Hosted EntraConsole
+# Self-Hosted ScalioNexus
 
 This repository contains the Docker Compose configuration for self-hosting **ScalioNexus**. The architecture includes a frontend, a backend, a MongoDB database, and an Nginx reverse proxy with automated SSL certification via Certbot (Let's Encrypt).
 
